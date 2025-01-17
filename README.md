@@ -7,7 +7,10 @@
 The purpose of this repository is to provide a central location of where to find the repositories that are available in the code catalogue. As the catalogue grows, this can be used as a simpler method of finding what you need; as well as largely eliminating the responsibility of following a standard of repository naming.
 
 ## Repository Listings
+
 # Guideline Repositories
+- [The AAFC Bioinformatics Code Catalogue](https://github.com/AAFC-Bioinformatics/ABCC_RCBA_Guide)
+- [AAFC Pipeline Templates](https://github.com/AAFC-Bioinformatics/ABCC_RCBA_Pipeline_Template)
 
 # Tool Repositories
 - [Bacterial RNASEQ](https://github.com/AAFC-Bioinformatics/bacterial_rnaseq)

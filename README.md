@@ -8,3 +8,6 @@ The purpose of this repository is to provide a central location of where to find
 
 ## Repository Listings
 - [Bacterial RNASEQ](https://github.com/AAFC-Bioinformatics/bacterial_rnaseq)
+- [Metagenomics - Nextflow](https://github.com/AAFC-Bioinformatics/metagenomic_nf)
+- [Genotyping by Sequencing - Snakemake](https://github.com/AAFC-Bioinformatics/gbs_snakemake)
+- [Nanopore Tools for GPSC](https://github.com/AAFC-Bioinformatics/nanopore_tools)

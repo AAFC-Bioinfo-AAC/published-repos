@@ -1,4 +1,4 @@
-## Repository Catalogue
+# Repository Catalogue
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -6,11 +6,11 @@
 
 The purpose of this repository is to provide a central location of where to find the repositories that are available in the code catalogue. As the catalogue grows, this can be used as a simpler method of finding what you need; as well as largely eliminating the responsibility of following a standard of repository naming.
 
-# Guideline Repositories
+### Guideline Repositories
 - [The AAFC Bioinformatics Code Catalogue](https://github.com/AAFC-Bioinformatics/ABCC_RCBA_Guide)
 - [AAFC Pipeline Templates](https://github.com/AAFC-Bioinformatics/ABCC_RCBA_Pipeline_Template)
 
-# Tool Repositories
+### Tool Repositories
 - [Bacterial RNASEQ](https://github.com/AAFC-Bioinformatics/bacterial_rnaseq)
 - [Metagenomics - Nextflow](https://github.com/AAFC-Bioinformatics/metagenomic_nf)
 - [Genotyping by Sequencing - Snakemake](https://github.com/AAFC-Bioinformatics/gbs_snakemake)

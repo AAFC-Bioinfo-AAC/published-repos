@@ -19,6 +19,7 @@ The purpose of this repository is to provide a central location of where to find
 | [Genotyping by Sequencing - Snakemake](https://github.com/AAFC-Bioinformatics/gbs_snakemake) | Takes reference genome and FASTQ files, quantifies variants |
 | [Metagenomics - Nextflow](https://github.com/AAFC-Bioinformatics/metagenomic_nf) | Automates many metagenomic analyses |
 | [Nanopore Tools for GPSC](https://github.com/AAFC-Bioinformatics/nanopore_tools) | Adapts variety of nanopore tools for use on GPSC |
+| [Computer Vision for Porkchop Analysis](https://github.com/AAFC-Bioinformatics/porkvision) | Uses computer vision to measure muscle/fat width and depth in pork loin carcasses |
 
 ## Contributing
 If there are any additions to be made to the Tool or Guideline Repositories; ensure that they are inserted to their proper locations alphabetically.

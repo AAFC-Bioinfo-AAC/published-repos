@@ -28,18 +28,21 @@ The purpose of this repository is to provide a central location of where to find
 | **Name** | **Description** |
 | -------- | --------------- |
 | [AAFC Bioinformatics Code Catalogue](https://github.com/AAFC-Bioinformatics/ABCC_RCBA_Guide) | Contains guidelines to follow and how to contribute |
-| [AAFC Pipeline Templates](https://github.com/AAFC-Bioinformatics/ABCC_RCBA_Pipeline_Template) | Contains templates to follow in order to maintain consistent documentation |
+| [AAFC Pipeline Templates](https://github.com/AAFC-Bioinfo-AAC/ABCC-Repository-Template) | Contains templates to follow in order to maintain consistent documentation |
 
 ---
 
 ### Tool Repositories
 | **Name** | **Description** |
 | -------- | --------------- |
+| [AMF-45S-PacBio-Ampli-Seq - Snakemake](https://github.com/AAFC-Bioinfo-AAC/AMF-45S-PacBio-amplicon-sequence-analysis-pipeline) | A snakemake pipeline to analyse 45S amplicon sequences from Arbuscular Mycorrhizal Fungi (AMF) using PacBio |
 | [Bacterial RNA-Seq](https://github.com/AAFC-Bioinformatics/bacterial_rnaseq) | Takes reference genome and FASTQ files, quantifies reads to genome features | 
 | [Genotyping by Sequencing - Snakemake](https://github.com/AAFC-Bioinformatics/gbs_snakemake) | Takes reference genome and FASTQ files, quantifies variants |
+| [Generic RNA-Seq - Bash](https://github.com/AAFC-Bioinfo-AAC/generic-rnaseq-pipeline) | A scalable RNA-Seq analysis pipeline for eukaryotic and prokaryotic organisms. | 
+| [Graph-Based Pangenome Assembly - Nextflow](https://github.com/AAFC-Bioinfo-AAC/graph-based-pangenome-assembly-pipeline) | A graph-based pangenome assembly pipeline |
 | [Metagenomics - Nextflow](https://github.com/AAFC-Bioinformatics/metagenomic_nf) | Automates many metagenomic analyses |
 | [Nanopore Tools for GPSC](https://github.com/AAFC-Bioinformatics/nanopore_tools) | Adapts variety of nanopore tools for use on GPSC |
-| [Computer Vision for Porkchop Analysis](https://github.com/AAFC-Bioinformatics/porkvision) | Uses computer vision to measure muscle/fat width and depth in pork loin carcasses |
+| [Computer Vision for Porkchop Analysis - Python](https://github.com/AAFC-Bioinformatics/porkvision) | Uses computer vision to measure muscle/fat width and depth in pork loin carcasses |
 
 ---
 
